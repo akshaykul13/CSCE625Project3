@@ -1,0 +1,20 @@
+CSCE 625 - Artificial Intelligence
+Project 3
+
+There are three ways to run this project.
+
+1. The source files are given in the folder CSCE625Project3/src. These files can be compiled and run..
+	Akshays-MacBook-Pro:bin akshaykulkarni$ java -cp . withoutmrv/JobsPuzzle
+	Akshays-MacBook-Pro:bin akshaykulkarni$ java -cp . withoutmrv/HousesProblem
+	Akshays-MacBook-Pro:bin akshaykulkarni$ java -cp . mrv/JobsPuzzleMRV
+	Akshays-MacBook-Pro:bin akshaykulkarni$ java -cp . mrv/HousesProblemMRV
+
+2. The class files are given in the folder CSCE625Project3/bin. 
+	Akshays-MacBook-Pro:bin akshaykulkarni$ java -cp . withoutmrv/JobsPuzzle
+	Akshays-MacBook-Pro:bin akshaykulkarni$ java -cp . withoutmrv/HousesProblem
+	Akshays-MacBook-Pro:bin akshaykulkarni$ java -cp . mrv/JobsPuzzleMRV
+	Akshays-MacBook-Pro:bin akshaykulkarni$ java -cp . mrv/HousesProblemMRV
+
+3. The Eclipse project is given in the zip file called CSCE625Project3, this project should be imported into Eclipse and the corresponding class should be executed.
+
+Recommended method is point 2.
